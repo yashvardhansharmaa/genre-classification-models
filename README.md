@@ -1,7 +1,7 @@
 # Comprehensive Music Machine Learning Project
 
 ## Overview
-[This multifaceted project explores various aspects of music through advanced machine learning techniques. Focused on understanding and predicting music genres, the project is structured into three primary components: lyric sentiment analysis, audio feature extraction from Spotify, and direct audio data processing. Each segment aims to provide insights into the nuanced characteristics that define music genres.
+This multifaceted project explores various aspects of music through advanced machine learning techniques. Focused on understanding and predicting music genres, the project is structured into three primary components: lyric sentiment analysis, audio feature extraction from Spotify, and direct audio data processing. Each segment aims to provide insights into the nuanced characteristics that define music genres.
 
 ## Part 1: Lyric Sentiment Analysis
 
