@@ -1,7 +1,7 @@
 # Comprehensive Music Machine Learning Project
 
 ## Overview
-This multifaceted project explores various aspects of music through advanced machine learning techniques. Focused on understanding and predicting music genres, the project is structured into three primary components: lyric sentiment analysis, audio feature extraction from Spotify, and direct audio data processing. Each segment aims to provide insights into the nuanced characteristics that define music genres.
+Utilizing NLTK's VADER for lyrical sentiment analysis, SpotiPy for extracting Spotify audio features to train logistic regression and random forest classifiers, and Librosa for processing raw audio data with convolutional neural networks, this project comprehensively analyzed and classified music genres like indie folk and rock through natural language processing on lyrics, modeling of acoustic properties like danceability and tempo, and deep learning on the intricate audio textures.
 
 ## Part 1: Lyric Sentiment Analysis
 
